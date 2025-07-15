@@ -4,5 +4,6 @@
 - 💞️ I’m looking to collaborate on New Innovative Ideas,projects...
 - 📫 How to reach me :) Through My Linkedin Profile, Instagram, Twitter or Github...
 - Email: kanithisowmya2005@gmail.com
+- 📄 [View My Resume](./Sowmya Kanithi Resume.pdf)
 Let's Collaborate - Let's Integrate :)
 
