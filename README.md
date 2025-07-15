@@ -7,5 +7,7 @@
 
 - Email: kanithisowmya2005@gmail.com
 
-Let's Collaborate - Let's Integrate :)
+- Stay engaged with my GitHub,LinkedIn,X(Twitter) Profiles for my professional Works.
+- 
+Let's Collaborate🤝 - Let's Integrate :)- Let's Grow Together 🌱
 
