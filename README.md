@@ -3,7 +3,9 @@
 - 🌱 I’m currently learning Machine Learning, AI, DL...
 - 💞️ I’m looking to collaborate on New Innovative Ideas,projects...
 - 📫 How to reach me :) Through My Linkedin Profile, Instagram, Twitter or Github...
-- Email: kanithisowmya2005@gmail.com
 - 📄 [View My Resume](https://github.com/sowmya13531/sowmya13531/blob/main/Sowmya%20Kanithi%20Resume.pdf)
+
+- Email: kanithisowmya2005@gmail.com
+
 Let's Collaborate - Let's Integrate :)
 
