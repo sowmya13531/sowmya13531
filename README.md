@@ -7,7 +7,10 @@
 
 - Email: kanithisowmya2005@gmail.com
 
-- Stay engaged with [Go to My GitHub](https://github.com/sowmya13531),[Go to My LinkedIn](https://www.linkedin.com/in/sowmya-kanithi),[Go to My X(Twitter)](https://x.com/kanithisowmyaa) accounts for my professional Works.
-- 
+- Stay engaged with
+- [Go to My GitHub](https://github.com/sowmya13531)
+- [Go to My LinkedIn](https://www.linkedin.com/in/sowmya-kanithi)
+- [Go to My X(Twitter)](https://x.com/kanithisowmyaa) accounts for my professional Works.
+  
 Let's Collaborate🤝 - Let's Integrate :)- Let's Grow Together 🌱
 
