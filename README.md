@@ -19,7 +19,12 @@ Let's Collaborate🤝 - Let's Integrate :)- Let's Grow Together 🌱
 - 💬 RAG Chatbot using LangChain
 - 🛡️ Real-time Weapon Detection using OpenCV + ML
 - 💳 Credit Card Fraud Detection
-
+bash
+```
+git add .gitattributes
+git commit -m "Make .ipynb count as Python"
+git push
+```
 
 ## 🧠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
