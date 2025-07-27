@@ -2,14 +2,15 @@
 - 👀 I’m very zeal and enthusiastic in interest to learn Advanced Technologies of World like Machine Learning and Artificial Intelligence...
 - 🌱 I’m currently learning Machine Learning, AI, DL...
 - 💞️ I’m looking to collaborate on New Innovative Ideas,projects...
-- 📫 How to reach me :) Through My 
+- 
+- 📄 [View My Resume](https://github.com/sowmya13531/sowmya13531/blob/main/Sowmya%20Kanithi%20Resume.pdf)
 
 ## 💼 Projects I'm Building
 - 💬 RAG Chatbot using LangChain
 - 🛡️ Real-time Weapon Detection using OpenCV + ML
 - 💳 Credit Card Fraud Detection
 
-- 📄 [View My Resume](https://github.com/sowmya13531/sowmya13531/blob/main/Sowmya%20Kanithi%20Resume.pdf)
+
   
 ## 🧠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
