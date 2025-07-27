@@ -32,6 +32,7 @@
 
 ---
 
+## Contact:
 
 - Email: kanithisowmya2005@gmail.com
 
@@ -40,7 +41,7 @@
 - [Go to My LinkedIn](https://www.linkedin.com/in/sowmya-kanithi)
 - [Go to My X(Twitter)](https://x.com/kanithisowmyaa) accounts for my professional Works.
   
-Let's Collaborate🤝 - Let's Integrate :)- Let's Grow Together 🌱
+
 ## 🤝 Let's Collaborate
 - 💡 I love solving real-world problems using AI & ML
 - 🤝 Open to internships, collaborations, and learning together!
