@@ -1,16 +1,15 @@
 - 👋 Hi, I’m sowmya 
-- 👀 I’m very zeal and enthusiastic in interest to learn Advanced Technologies of World like Machine Learning and Artificial Intelligence...
-- 🌱 I’m currently learning Machine Learning, AI, DL...
-- 💞️ I’m looking to collaborate on New Innovative Ideas,projects...
-- 
-- 📄 [View My Resume](https://github.com/sowmya13531/sowmya13531/blob/main/Sowmya%20Kanithi%20Resume.pdf)
+-🚀 Driven by Curiosity | Fueled by Innovation
+-🔍 Passionate about exploring cutting-edge technologies like Machine Learning, Artificial Intelligence, and Deep Learning.
+-🌱 Currently diving deep into the world of AI/ML, building real-world projects and sharpening my skills every day.
+-🤝 Open to collaborations on innovative ideas and impactful tech projects that push boundaries and solve real-world problems.
 
 ## 💼 Projects I'm Building
 - 💬 RAG Chatbot using LangChain
 - 🛡️ Real-time Weapon Detection using OpenCV + ML
 - 💳 Credit Card Fraud Detection
-
-
+  
+- 📄 [View My Resume](https://github.com/sowmya13531/sowmya13531/blob/main/Sowmya%20Kanithi%20Resume.pdf)
   
 ## 🧠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
