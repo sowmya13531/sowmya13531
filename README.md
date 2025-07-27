@@ -34,9 +34,7 @@ Let's Collaborate🤝 - Let's Integrate :)- Let's Grow Together 🌱
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowmya13531&theme=radical)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowmya13531&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sowmya13531&layout=compact&theme=radical&hide=c++)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowmya13531&show_icons=true&theme=radical&include_all_commits=true&custom_title=Sowmya's%20GitHub%20Stats)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sowmya13531&layout=compact&theme=radical)
 
