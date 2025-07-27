@@ -36,6 +36,8 @@ Let's Collaborate🤝 - Let's Integrate :)- Let's Grow Together 🌱
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowmya13531&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sowmya13531&layout=compact&theme=radical&hide=c++)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sowmya13531&layout=compact&theme=radical)
 
 ---
