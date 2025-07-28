@@ -8,9 +8,9 @@
 📄 [View My Resume](https://github.com/sowmya13531/sowmya13531/blob/main/Sowmya%20Kanithi%20Resume.pdf)
 
 ## 💼 Projects I'm Building
-- 💬 RAG Chatbot using LangChain
-- 🛡️ Real-time Weapon Detection using OpenCV + ML
-- 💳 Credit Card Fraud Detection
+- AI Virtual Financial Assistant
+- Real-time Weapon Detection using OpenCV + ML
+
     
 ## 🧠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
@@ -24,11 +24,13 @@
 
 ## 📊 GitHub Stats
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sowmya13531&layout=compact&theme=radical)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowmya13531&theme=radical)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowmya13531&show_icons=true&theme=radical&include_all_commits=true&custom_title=Sowmya's%20GitHub%20Stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sowmya13531&layout=compact&theme=radical)
+
 
 ---
 
