@@ -9,8 +9,6 @@
 
 ## 💼 Projects I'm Building
 - AI Virtual Financial Assistant
-- Real-time Weapon Detection using OpenCV + ML
-
     
 ## 🧠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
