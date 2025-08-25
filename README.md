@@ -12,7 +12,7 @@
     
 ## 🧠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
-![NLP](https://img.shields.io/badge/-Streamlit-FF4B4B?style=for-the-badge)
+![NLP](https://img.shields.io/badge/-NLP-FF4B4B?style=for-the-badge)
 ![Machine Learning](https://img.shields.io/badge/-MachineLearning-150458?logo=MachineLearning&logoColor=white&style=for-the-badge)
 ![Deep Learning](https://img.shields.io/badge/-Deep--Learning-F7931E?logo=scikit-learn&logoColor=white&style=for-the-badge)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?logo=opencv&logoColor=white&style=for-the-badge)
