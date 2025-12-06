@@ -8,7 +8,7 @@
 📄 [View My Resume](https://github.com/sowmya13531/sowmya13531/blob/main/Sowmya%20Kanithi%20Resume.pdf)
 
 ## 💼 Projects I'm Building
-- Phishing URL Detection ML
+- UAV
     
 ## 🧠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
