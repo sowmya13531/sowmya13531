@@ -5,7 +5,7 @@
 - 🤝 Open to collaborations on innovative ideas and impactful tech projects that push boundaries and solve real-world problems.
 
 ## My Resume :
-📄 [View My Resume](https://github.com/sowmya13531/sowmya13531/blob/main/Sowmya%20Kanithi%20Resume.pdf)
+📄 [View My Resume](https://github.com/sowmya13531/sowmya13531/blob/main/Sowmya%20Kanithi%20Resume0.pdf)
 
 ## 💼 Projects I'm Building
 - UAV
