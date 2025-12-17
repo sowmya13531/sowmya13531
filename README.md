@@ -7,7 +7,7 @@
 ## My Resume :
 [📄 View My Resume](https://raw.githubusercontent.com/sowmya13531/sowmya13531/main/Sowmya%20Kanithi%20Resume%20.pdf)
 ## 💼 Projects I'm Building
-- UAV
+- RAG,Agents
     
 ## 🧠 Tech Stack
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
