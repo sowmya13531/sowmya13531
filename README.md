@@ -16,23 +16,7 @@ I believe in learning by building, experimenting, and shipping projects rather t
 
 💻 **Tech Stack:**  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)  
-![HuggingFace](https://img.shields.io/badge/Hugging%20Face-F59E0B?style=for-the-badge&logo=huggingface&logoColor=white)  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)  
-![Gradio](https://img.shields.io/badge/Gradio-2EC866?style=for-the-badge&logo=gradio&logoColor=white)  
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white)  
-![FAISS](https://img.shields.io/badge/FAISS-1A1A1A?style=for-the-badge&logo=faiss&logoColor=white)  
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
-![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-F59E0B?style=for-the-badge&logo=huggingface&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-2EC866?style=for-the-badge&logo=gradio&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-1A1A1A?style=for-the-badge&logo=faiss&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 
 📊 **GitHub Stats:**  
@@ -41,29 +25,29 @@ I believe in learning by building, experimenting, and shipping projects rather t
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowmya13531&show_icons=true&theme=radical)  
 
 🌐 **Connect with Me:**  
-[GitHub](https://github.com/sowmya13531) | [LinkedIn](https://www.linkedin.com/in/sowmya-kanithi) | [Hugging Face Spaces](https://huggingface.co/Sowmya135) | Email: kanithisowmya2005@gmail.com  
+[GitHub](https://github.com/sowmya13531) | [LinkedIn](https://www.linkedin.com/in/sowmya-kanithi) | [Hugging Face Spaces](https://huggingface.co/Sowmya135) |
 [X(Twitter)](https://x.com/kanithisowmyaa) accounts for my professional Works.
+- Email: kanithisowmya2005@gmail.com  
+ 
 🤝 **Let's Collaborate:**  
-💡 I love solving real-world problems using AI & ML  
-🤝 Open to internships & Jobs , collaborations, and learning together!  
-🌱 Let’s Grow Together 🌿  
+- 💡 I love solving real-world problems using AI & ML  
+- 🤝 Open to internships & Jobs , collaborations, and learning together!  
+- 🌱 Let’s Grow Together 🌿  
 
 <div align="center">
-  <table>
-    <tr>
-      <td style="
-        background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
-        padding: 20px 30px;
-        border-radius: 12px;
-        box-shadow: 0 8px 25px rgba(0,0,0,0.3);
-        color: #ffffff;
-        font-size: 18px;
-        font-family: 'Segoe UI', sans-serif;
-      ">
-        <b>✍️ Dev Quote</b><br><br>
-        <i>“The best way to predict the future is to create it.”</i><br><br>
-        — <b>Peter Drucker</b>
-      </td>
-    </tr>
-  </table>
+  <div style="
+    background-color:#0a192f;
+    border-left:5px solid #38bdf8;
+    padding:20px;
+    border-radius:10px;
+    width:80%;
+    color:#e0f2fe;
+    font-size:17px;
+    font-family: monospace;
+  ">
+    <b>✍️ Dev Quote</b><br><br>
+    “The best way to predict the future is to create it.”<br><br>
+    — <b>Peter Drucker</b>
+  </div>
 </div>
+
