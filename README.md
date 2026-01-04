@@ -48,5 +48,22 @@ I believe in learning by building, experimenting, and shipping projects rather t
 🤝 Open to internships & Jobs , collaborations, and learning together!  
 🌱 Let’s Grow Together 🌿  
 
-✍️ **Dev Quote:**  
-*"The best way to predict the future is to create it."* – Peter Drucker
+<div align="center">
+  <table>
+    <tr>
+      <td style="
+        background: linear-gradient(135deg, #0f2027, #203a43, #2c5364);
+        padding: 20px 30px;
+        border-radius: 12px;
+        box-shadow: 0 8px 25px rgba(0,0,0,0.3);
+        color: #ffffff;
+        font-size: 18px;
+        font-family: 'Segoe UI', sans-serif;
+      ">
+        <b>✍️ Dev Quote</b><br><br>
+        <i>“The best way to predict the future is to create it.”</i><br><br>
+        — <b>Peter Drucker</b>
+      </td>
+    </tr>
+  </table>
+</div>
