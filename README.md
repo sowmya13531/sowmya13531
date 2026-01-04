@@ -35,19 +35,25 @@ I believe in learning by building, experimenting, and shipping projects rather t
 - 🌱 Let’s Grow Together 🌿  
 
 <div align="center">
-  <div style="
-    background-color:#0a192f;
-    border-left:5px solid #38bdf8;
-    padding:20px;
-    border-radius:10px;
-    width:80%;
-    color:#e0f2fe;
-    font-size:17px;
-    font-family: monospace;
-  ">
-    <b>✍️ Dev Quote</b><br><br>
-    “The best way to predict the future is to create it.”<br><br>
-    — <b>Peter Drucker</b>
-  </div>
+  <table>
+    <tr>
+      <td style="
+        background-color:#000000;
+        padding:22px 34px;
+        border-radius:14px;
+        box-shadow: 0 0 25px rgba(59,130,246,0.25);
+        font-size:18px;
+        font-family:'Segoe UI', sans-serif;
+      ">
+        <b style="color:#60a5fa;">✍️ Dev Quote</b><br><br>
+        <span style="color:#93c5fd;">
+          “The best way to predict the future is to create it.”
+        </span><br><br>
+        — <b style="color:#ec4899;">Peter Drucker</b>
+      </td>
+    </tr>
+  </table>
+</div>
+
 </div>
 
