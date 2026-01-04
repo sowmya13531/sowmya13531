@@ -34,9 +34,10 @@ I believe in learning by building, experimenting, and shipping projects rather t
 - 🤝 Open to internships & Jobs , collaborations, and learning together!  
 - 🌱 Let’s Grow Together 🌿  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/CREATE%20THE%20FUTURE-3b82f6?style=for-the-badge&labelColor=000000" />
+<p align="right">
+  <img src="https://img.shields.io/badge/Peter%20Drucker-Author-ec4899?style=flat&labelColor=000000" />
 </p>
+
 
 
 
