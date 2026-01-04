@@ -1,4 +1,4 @@
-💫 **About Me:**  
+## 💫 **About Me:**  
 Hi, I’m Sowmya! I’m a passionate Machine Learning Engineer along with Artificial Intelligence, and Deep Learning . I love turning complex problems into intelligent solutions and building real-world AI/ML applications that make an impact.  
 
 I have hands-on experience in NLP, Computer Vision, LLM-based applications, and RAG systems. I enjoy working with Python, TensorFlow, scikit-learn, Hugging Face Transformers, Streamlit, and FAISS to build end-to-end ML pipelines, chatbots, AI assistants, RAG systems, recommendation systems, and real-time detection systems.  
@@ -6,7 +6,7 @@ I have hands-on experience in NLP, Computer Vision, LLM-based applications, and 
 I believe in learning by building, experimenting, and shipping projects rather than just following tutorials. Currently, I’m diving deep into AI/ML, exploring LLMs, RAG applications, optimizing ML models, and also learning **Full Stack development**.  
 
 📄 **View My Resume:**  
-[Resume PDF](https://your-link-to-resume.pdf)  
+[Resume PDF](https://Sowmya Kanithi Resume.pdf)  
 
 🌱 **Currently Learning:**  
 - Advanced LLMs and RAG pipelines  
