@@ -6,7 +6,7 @@ I have hands-on experience in NLP, Computer Vision, LLM-based applications, and 
 I believe in learning by building, experimenting, and shipping projects rather than just following tutorials. Currently, I’m diving deep into AI/ML, exploring LLMs, RAG applications, optimizing ML models, and also learning **Full Stack development**.  
 
 📄 **View My Resume:**  
-[Resume PDF](https://Sowmya Kanithi Resume.pdf)  
+[Resume PDF](https://Sowmya%0Kanithi%0Resume.pdf)  
 
 🌱 **Currently Learning:**  
 - Advanced LLMs and RAG pipelines  
