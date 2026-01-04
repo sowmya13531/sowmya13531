@@ -34,7 +34,10 @@ I believe in learning by building, experimenting, and shipping projects rather t
 - 🤝 Open to internships & Jobs , collaborations, and learning together!  
 - 🌱 Let’s Grow Together 🌿  
 
-![Quote](https://img.shields.io/badge/The%20future%20is%20created%2C%20not%20predicted-2563eb?style=flat-square&labelColor=000000)
+<p align="center">
+  <img src="https://img.shields.io/badge/CREATE%20THE%20FUTURE-3b82f6?style=for-the-badge&labelColor=000000" />
+</p>
+
 
 
 
