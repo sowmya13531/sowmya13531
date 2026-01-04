@@ -5,6 +5,9 @@ I have hands-on experience in NLP, Computer Vision, LLM-based applications, and 
 
 I believe in learning by building, experimenting, and shipping projects rather than just following tutorials. Currently, I’m diving deep into AI/ML, exploring LLMs, RAG applications, optimizing ML models, and also learning **Full Stack development**.  
 
+📄 **View My Resume:**  
+[Resume PDF](https://your-link-to-resume.pdf)  
+
 🌱 **Currently Learning:**  
 - Advanced LLMs and RAG pipelines  
 - Deployment of ML apps with Hugging Face Spaces and Streamlit  
@@ -31,8 +34,6 @@ I believe in learning by building, experimenting, and shipping projects rather t
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
-📄 **View My Resume:**  
-[Resume PDF](https://your-link-to-resume.pdf)  
 
 📊 **GitHub Stats:**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sowmya13531&layout=compact&theme=radical)  
