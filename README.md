@@ -34,26 +34,12 @@ I believe in learning by building, experimenting, and shipping projects rather t
 - 🤝 Open to internships & Jobs , collaborations, and learning together!  
 - 🌱 Let’s Grow Together 🌿  
 
-<div align="center">
-  <table>
-    <tr>
-      <td style="
-        background-color:#000000;
-        padding:22px 34px;
-        border-radius:14px;
-        box-shadow: 0 0 25px rgba(59,130,246,0.25);
-        font-size:18px;
-        font-family:'Segoe UI', sans-serif;
-      ">
-        <b style="color:#60a5fa;">✍️ Dev Quote</b><br><br>
-        <span style="color:#93c5fd;">
-          “The best way to predict the future is to create it.”
-        </span><br><br>
-        — <b style="color:#ec4899;">Peter Drucker</b>
-      </td>
-    </tr>
-  </table>
-</div>
+![Dev Quote](https://img.shields.io/badge/Dev%20Quote-The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it-blue?style=for-the-badge&labelColor=000000)
+![Author](https://img.shields.io/badge/Peter%20Drucker-Author-ec4899?style=for-the-badge&labelColor=000000)
+<p align="center">
+  <img src="https://img.shields.io/badge/Dev%20Quote-The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it-blue?style=for-the-badge&labelColor=000000" />
+  <br/>
+  <img src="https://img.shields.io/badge/Peter%20Drucker-Author-ec4899?style=for-the-badge&labelColor=000000" />
+</p>
 
-</div>
 
