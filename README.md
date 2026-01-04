@@ -34,12 +34,12 @@ I believe in learning by building, experimenting, and shipping projects rather t
 - 🤝 Open to internships & Jobs , collaborations, and learning together!  
 - 🌱 Let’s Grow Together 🌿  
 
-![Dev Quote](https://img.shields.io/badge/Dev%20Quote-The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it-blue?style=for-the-badge&labelColor=000000)
-![Author](https://img.shields.io/badge/Peter%20Drucker-Author-ec4899?style=for-the-badge&labelColor=000000)
 <p align="center">
-  <img src="https://img.shields.io/badge/Dev%20Quote-The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it-blue?style=for-the-badge&labelColor=000000" />
-  <br/>
-  <img src="https://img.shields.io/badge/Peter%20Drucker-Author-ec4899?style=for-the-badge&labelColor=000000" />
+  <img src="https://img.shields.io/badge/Dev%20Quote-The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it-3b82f6?style=for-the-badge&labelColor=000000" />
 </p>
+<p align="right">
+  <img src="https://img.shields.io/badge/Peter%20Drucker-Author-ec4899?style=flat&labelColor=000000" />
+</p>
+
 
 
