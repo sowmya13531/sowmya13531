@@ -24,7 +24,7 @@ I believe in learning by building, experimenting, and shipping projects rather t
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=sowmya13531&show_icons=true&rank_icon=github&theme=github_dark)
 
-![Streak](https://streak-stats.demolab.com?user=sowmya13531&theme=github-dark)
+![Streak](https://streak-stats.demolab.com?user=sowmya13531&theme=github-dark&hide_border=true)
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowmya13531&layout=compact&theme=github_dark)
 
