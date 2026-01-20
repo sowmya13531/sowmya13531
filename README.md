@@ -29,7 +29,7 @@ I believe in learning by building, experimenting, and shipping projects rather t
 <img src="https://streak-stats.demolab.com?user=sowmya13531&theme=github-dark" />
 
 <br><br>
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=sowmya13531&layout=compact&theme=github_dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sowmya13531&layout=compact)
 
 
 🌐 **Connect with Me:**  
