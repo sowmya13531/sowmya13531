@@ -3,7 +3,7 @@
 💡 Building Intelligent Systems That Solve Real-World Problems**
 
 📄 **View My Resume Here:** 
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./Sowmya%20Kanithi%20Resume.pdf)
+- [![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./Sowmya%20Kanithi%20Resume.pdf)
 
 # 🌟 About Me
 
@@ -132,9 +132,9 @@ Fully offline voice assistant integrating Speech-to-Text, LLaMA 3.2, and Text-to
 
 # 🎯 Career Focus
 
-*Actively seeking opportunities in:*
+## *Actively seeking opportunities in:*
 
-# Machine Learning Engineer | AI/ML Engineer | GenAI Engineer | Data Scientist | Python Developer 
+### Machine Learning Engineer | AI/ML Engineer | GenAI Engineer | Data Scientist | Python Developer 
 
 ## 🌐 Connect With Me
 
@@ -146,3 +146,8 @@ Fully offline voice assistant integrating Speech-to-Text, LLaMA 3.2, and Text-to
 * 💡 I love solving real-world problems using AI & ML
 * 🤝 Open to internships, jobs, collaborations, and learning together
 * 🌱 Let’s Grow Together 🌿
+
+
+![Quote](https://img.shields.io/badge/Don’t%20just%20follow%20trends%20—%20build%20what’s%20next.-111827?style=for-the-badge&logo=github&logoColor=white)
+![Author](https://img.shields.io/badge/Sowmya%20Kanithi-7C3AED?style=for-the-badge)
+
