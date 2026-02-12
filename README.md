@@ -34,44 +34,66 @@ I love turning complex problems into intelligent solutions and building real-wor
 🌐 Deploy ML apps using Streamlit, Gradio & Hugging Face Spaces
 ⚙️ Optimize ML/DL models for production environments
 
+
 ## 🛠️ Tech Stack  
 
-### 💻 Programming  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+### 🤖 Machine Learning & AI  
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Supervised Learning](https://img.shields.io/badge/Supervised%20Learning-0A66C2?style=for-the-badge)
+![Unsupervised Learning](https://img.shields.io/badge/Unsupervised%20Learning-6A1B9A?style=for-the-badge)
+![Feature Engineering](https://img.shields.io/badge/Feature%20Engineering-00897B?style=for-the-badge)
+![Cross Validation](https://img.shields.io/badge/Cross--Validation-3949AB?style=for-the-badge)
+![XGBoost](https://img.shields.io/badge/XGBoost-EC4E20?style=for-the-badge)
+![Model Evaluation](https://img.shields.io/badge/Model%20Evaluation-455A64?style=for-the-badge)
+![Anomaly Detection](https://img.shields.io/badge/Anomaly%20Detection-D32F2F?style=for-the-badge)
 
-### 🤖 Machine Learning & Deep Learning  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+---
+
+### 🧠 Deep Learning & Computer Vision  
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![CNNs](https://img.shields.io/badge/CNNs-1E88E5?style=for-the-badge)
+![YOLOv8](https://img.shields.io/badge/YOLOv8-111111?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### 🧠 NLP & LLMs  
+---
+
+### 📚 NLP & LLMs  
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-F59E0B?style=for-the-badge&logo=huggingface&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-00C853?style=for-the-badge)
+![RAG](https://img.shields.io/badge/RAG-212121?style=for-the-badge)
 ![FAISS](https://img.shields.io/badge/FAISS-1A1A1A?style=for-the-badge)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-5A29E4?style=for-the-badge)
 ![LLaMA](https://img.shields.io/badge/LLaMA-000000?style=for-the-badge)
 ![Qwen](https://img.shields.io/badge/Qwen-7A1FA2?style=for-the-badge)
 ![FLAN-T5](https://img.shields.io/badge/FLAN--T5-FF9800?style=for-the-badge)
+![Embeddings](https://img.shields.io/badge/Embeddings-00838F?style=for-the-badge)
+![NLTK](https://img.shields.io/badge/NLTK-154360?style=for-the-badge)
+![SpaCy](https://img.shields.io/badge/SpaCy-09A3D5?style=for-the-badge)
+![Gensim](https://img.shields.io/badge/Gensim-FF6F00?style=for-the-badge)
+![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-6D4C41?style=for-the-badge)
 
-### 👁️ Computer Vision  
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+---
 
-### 📊 Data Analysis  
+### 📊 Data Analysis & Visualization  
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![EDA](https://img.shields.io/badge/Exploratory%20Data%20Analysis-455A64?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+
+---
 
 ### 🚀 Tools & Deployment  
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![Gradio](https://img.shields.io/badge/Gradio-2EC866?style=for-the-badge&logo=gradio&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-
-
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Gradio](https://img.shields.io/badge/Gradio-2EC866?style=for-the-badge&logo=gradio&logoColor=white)
+![Hugging Face Spaces](https://img.shields.io/badge/Hugging%20Face%20Spaces-FFB000?style=for-the-badge)
 ## 🚀 Highlight Projects
 ### 🔹 AI News Credibility Analyzer  
 An intelligent hybrid AI system that detects fake or misleading news using:
