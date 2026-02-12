@@ -1,6 +1,7 @@
 # 👋 Hi, I'm Sowmya Kanithi
-**🚀 AI/ML Engineer | GenAI | NLP | Computer Vision | LLM Applications | RAG Systems
-💡 Building Intelligent Systems That Solve Real-World Problems**
+**🚀 AI/ML Engineer | GenAI | NLP | Computer Vision | LLM Applications | RAG Systems**
+
+- *💡 Building Intelligent Systems That Solve Real-World Problems*
 
 📄 **View My Resume Here:** 
 - [![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./Sowmya%20Kanithi%20Resume.pdf)
@@ -10,18 +11,6 @@
 Hi, I’m Sowmya! I’m a passionate Machine Learning Engineer specializing in Artificial Intelligence and Deep Learning.
 
 I love turning complex problems into intelligent solutions and building real-world AI/ML applications that create meaningful impact.
-
-## I have hands-on experience in:
-
-* Machine Learning & Deep Learning
-* Natural Language Processing (NLP)
-* Computer Vision
-* Large Language Model (LLM) Applications
-* Retrieval-Augmented Generation (RAG) Systems
-* AI Agents & Conversational AI
-* Real-time Detection Systems
-* Recommendation Systems
-* Explainable AI Systems
  
 ### I specialize in building end-to-end ML pipelines, chatbots, AI assistants, RAG systems, and production-ready AI applications.
 
@@ -96,6 +85,19 @@ I love turning complex problems into intelligent solutions and building real-wor
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-2EC866?style=for-the-badge&logo=gradio&logoColor=white)
 ![Hugging Face Spaces](https://img.shields.io/badge/Hugging%20Face%20Spaces-FFB000?style=for-the-badge)
+
+## I have hands-on experience in:
+
+* Machine Learning & Deep Learning
+* Natural Language Processing (NLP)
+* Computer Vision
+* Large Language Model (LLM) Applications
+* Retrieval-Augmented Generation (RAG) Systems
+* AI Agents & Conversational AI
+* Real-time Detection Systems
+* Recommendation Systems
+* Explainable AI Systems
+  
 ## 🚀 Highlight Projects
 ### 🔹 AI News Credibility Analyzer  
 An intelligent hybrid AI system that detects fake or misleading news using:
