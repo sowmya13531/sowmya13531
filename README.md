@@ -1,27 +1,104 @@
-## 💫 **About Me:**  
-Hi, I’m Sowmya! I’m a passionate Machine Learning Engineer along with Artificial Intelligence, and Deep Learning . I love turning complex problems into intelligent solutions and building real-world AI/ML applications that make an impact.  
+# 👋 Hi, I'm Sowmya Kanithi
+**🚀 AI/ML Engineer | GenAI | NLP | Computer Vision | LLM Applications | RAG Systems
+💡 Building Intelligent Systems That Solve Real-World Problems**
 
-I have hands-on experience in NLP, Computer Vision, LLM-based applications, and RAG systems. I enjoy working with Python, TensorFlow, scikit-learn, Hugging Face Transformers, Streamlit, and FAISS to build end-to-end ML pipelines, chatbots, AI assistants, RAG systems, recommendation systems, and real-time detection systems.  
+📄 **View My Resume Here:** [![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./Sowmya%20Kanithi%20Resume.pdf)
 
-I believe in learning by building, experimenting, and shipping projects rather than just following tutorials. Currently, I’m diving deep into AI/ML, exploring LLMs, RAG applications, optimizing ML models, and also learning **Full Stack development**.  
+# 🌟 About Me
 
-📄 **View My Resume:**  
-[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./Sowmya%20Kanithi%20Resume.pdf)
+Hi, I’m Sowmya! I’m a passionate Machine Learning Engineer specializing in Artificial Intelligence and Deep Learning.
+I love turning complex problems into intelligent solutions and building real-world AI/ML applications that create meaningful impact.
+
+## I have hands-on experience in:
+* Machine Learning & Deep Learning
+* Natural Language Processing (NLP)
+* Computer Vision
+* Large Language Model (LLM) Applications
+* Retrieval-Augmented Generation (RAG) Systems
+* AI Agents & Conversational AI
+* Real-time Detection Systems
+* Recommendation Systems
+* Explainable AI Systems
  
+### I specialize in building end-to-end ML pipelines, chatbots, AI assistants, RAG systems, and production-ready AI applications.
 
-🌱 **Currently Learning:**  
-- Advanced LLMs and RAG pipelines  
-- Deployment of ML apps with Hugging Face Spaces and Streamlit  
-- Optimizing ML/DL models for production  
-- Full Stack Web Development  
+*I believe in mastering skills through building, experimenting, and shipping impactful projects. As a passionate and lifelong learner, a proactive and continuous learner, consistently upskilling and exploring cutting-edge advancements in AI and Generative AI.*
 
-💻 **Tech Stack:**  
+## 💡 What I Do
+🤖 Build ML & Deep Learning models for real-world problems
+🧠 Develop LLM-powered applications and scalable RAG systems
+💬 Create AI chatbots, assistants, and NLP pipelines
+👁️ Work on Computer Vision & real-time detection systems
+📊 Perform data analysis, feature engineering & model optimization
+🌐 Deploy ML apps using Streamlit, Gradio & Hugging Face Spaces
+⚙️ Optimize ML/DL models for production environments
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging%20Face-F59E0B?style=for-the-badge&logo=huggingface&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white) ![Gradio](https://img.shields.io/badge/Gradio-2EC866?style=for-the-badge&logo=gradio&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=langchain&logoColor=white) ![FAISS](https://img.shields.io/badge/FAISS-1A1A1A?style=for-the-badge&logo=faiss&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
+🛠️ Tech Stack
+💻 Programming
+🤖 ![Machine Learning & AI](https://img.shields.io/badge/Machine Learning & AI-3776AB?style=for-the-badge&logo=Machine Learning & AI&logoColor=white)
+Supervised & Unsupervised Learning • Feature Engineering • Cross-Validation • Model Evaluation • Anomaly Detection
+
+🧠 NLP & LLMs
+![NLP & LLMs](https://img.shields.io/badge/NLP & LLMs-00599C?style=for-the-badge&logo=NLP & LLMs&logoColor=white)
+LLaMA • Qwen • FLAN-T5 • Embeddings • Prompt Engineering • RAG Pipelines
+
+👁️ Computer Vision
 
 
-<h2>📊 GitHub Overview</h2>
 
+
+CNNs • Real-Time Detection Systems
+
+📊 Data Analysis
+
+
+
+
+
+
+
+
+EDA • Model Performance Tuning & Evaluation
+
+🚀 Tools & Deployment
+
+
+
+
+
+
+
+
+
+
+
+
+🚀 Highlight Projects
+🔹 AI News Credibility Analyzer
+
+Hybrid AI system combining ML + Rule-Based Logic + LLM (Qwen) with RAG memory and Explainable AI.
+
+🔹 Offline LLaMA-Powered Voice AI Assistant
+
+Fully offline voice assistant integrating Speech-to-Text, LLaMA 3.2, and Text-to-Speech with contextual memory.
+
+More projects available in my repositories 👇
+
+🌱 Currently Learning & Exploring
+
+Advanced LLM Architectures & RAG Pipelines
+
+Deployment of ML apps using Hugging Face Spaces & Streamlit
+
+Optimizing ML/DL models for production
+
+GenAI Applications
+
+Model Performance Optimization
+
+Full Stack Web Development
+
+📊 GitHub Overview
 <img src="https://github-readme-stats.vercel.app/api?username=sowmya13531&show_icons=true&theme=github_dark" />
 
 <br><br>
@@ -29,29 +106,23 @@ I believe in learning by building, experimenting, and shipping projects rather t
 <img src="https://streak-stats.demolab.com?user=sowmya13531&theme=github-dark" />
 
 <br><br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sowmya13531&layout=compact)
 
+🎯 Career Focus
 
-🌐 **Connect with Me:**  
-[GitHub](https://github.com/sowmya13531) | [LinkedIn](https://www.linkedin.com/in/sowmya-kanithi) | [Hugging Face Spaces](https://huggingface.co/Sowmya135) |
-[X(Twitter)](https://x.com/kanithisowmyaa) accounts for my professional Works.
-- Email: kanithisowmya2005@gmail.com  
- 
-🤝 **Let's Collaborate:**  
-- 💡 I love solving real-world problems using AI & ML  
-- 🤝 Open to internships & Jobs , collaborations, and learning together!  
-- 🌱 Let’s Grow Together 🌿  
+Actively seeking opportunities in:
 
-<p align="center">
-  <img src="https://img.shields.io/badge/The%20best%20way%20to%20predict%20the%20future%20is%20to%20create%20it-3b82f6?style=for-the-badge&labelColor=000000" />
-</p>
+Machine Learning Engineer | AI/ML Engineer | GenAI Engineer | Data Scientist | Python Developer
 
-<p align="right">
-  <img src="https://img.shields.io/badge/Peter%20Drucker-Author-ec4899?style=flat&labelColor=000000" />
-</p>
+🌐 Connect With Me
 
+💼 LinkedIn: https://linkedin.com/in/sowmya-kanithi
 
+🤗 Hugging Face Spaces: https://huggingface.co/Sowmya135
 
+📧 Email: kanithisowmya2005@gmail.com
 
+🤝 Let’s Collaborate
 
-
+💡 I love solving real-world problems using AI & ML
+🤝 Open to internships, jobs, collaborations, and learning together
+🌱 Let’s Grow Together 🌿
