@@ -2,7 +2,8 @@
 **🚀 AI/ML Engineer | GenAI | NLP | Computer Vision | LLM Applications | RAG Systems
 💡 Building Intelligent Systems That Solve Real-World Problems**
 
-📄 **View My Resume Here:** [![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./Sowmya%20Kanithi%20Resume.pdf)
+📄 **View My Resume Here:** 
+[![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./Sowmya%20Kanithi%20Resume.pdf)
 
 # 🌟 About Me
 
@@ -35,7 +36,7 @@ I love turning complex problems into intelligent solutions and building real-wor
 
 🛠️ Tech Stack
 💻 Programming
-🤖 ![Machine Learning & AI](https://img.shields.io/badge/Machine Learning & AI-3776AB?style=for-the-badge&logo=Machine Learning & AI&logoColor=white)
+🤖 ![Machine Learning & AI](https://img.shields.io/badge/Machine Learning & AI-3776AB?style=for-the-badge&logo=Machine Learning&logoColor=white)
 Supervised & Unsupervised Learning • Feature Engineering • Cross-Validation • Model Evaluation • Anomaly Detection
 
 🧠 NLP & LLMs
