@@ -16,15 +16,6 @@ I love turning complex problems into intelligent solutions and building real-wor
 
 *I believe in mastering skills through building, experimenting, and shipping impactful projects. As a passionate and lifelong learner, a proactive and continuous learner, consistently upskilling and exploring cutting-edge advancements in AI and Generative AI.*
 
-## 💡 What I Do
-- 🤖 Build ML & Deep Learning models for real-world problems
-- 🧠 Develop LLM-powered applications and scalable RAG systems
-- 💬 Create AI chatbots, assistants, and NLP pipelines
-- 👁️ Work on Computer Vision & real-time detection systems
-- 📊 Perform data analysis, feature engineering & model optimization
-- 🌐 Deploy ML apps using Streamlit, Gradio & Hugging Face Spaces
-- ⚙️ Optimize ML/DL models for production environments
-
 
 ## 🛠️ Tech Stack  
 
@@ -85,6 +76,17 @@ I love turning complex problems into intelligent solutions and building real-wor
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Gradio](https://img.shields.io/badge/Gradio-2EC866?style=for-the-badge&logo=gradio&logoColor=white)
 ![Hugging Face Spaces](https://img.shields.io/badge/Hugging%20Face%20Spaces-FFB000?style=for-the-badge)
+
+
+## 💡 What I Do
+- 🤖 Build ML & Deep Learning models for real-world problems
+- 🧠 Develop LLM-powered applications and scalable RAG systems
+- 💬 Create AI chatbots, assistants, and NLP pipelines
+- 👁️ Work on Computer Vision & real-time detection systems
+- 📊 Perform data analysis, feature engineering & model optimization
+- 🌐 Deploy ML apps using Streamlit, Gradio & Hugging Face Spaces
+- ⚙️ Optimize ML/DL models for production environments
+  
 
 ## I have hands-on experience in:
 
