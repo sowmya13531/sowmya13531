@@ -4,7 +4,7 @@
 - *💡 Building Intelligent Systems That Solve Real-World Problems*
 
 📄 **View My Resume Here:** 
-- [![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-blue?style=for-the-badge&logo=adobeacrobatreader)](./Sowmya%20Kanithi%20Resume.pdf)
+- [![Download Resume](https://img.shields.io/badge/Download%20Resume-PDF-pink?style=for-the-badge&logo=adobeacrobatreader)](./Sowmya%20Kanithi%20Resume.pdf)
 
 # 🌟 About Me
 
