@@ -8,9 +8,11 @@
 # 🌟 About Me
 
 Hi, I’m Sowmya! I’m a passionate Machine Learning Engineer specializing in Artificial Intelligence and Deep Learning.
+
 I love turning complex problems into intelligent solutions and building real-world AI/ML applications that create meaningful impact.
 
 ## I have hands-on experience in:
+
 * Machine Learning & Deep Learning
 * Natural Language Processing (NLP)
 * Computer Vision
@@ -26,13 +28,13 @@ I love turning complex problems into intelligent solutions and building real-wor
 *I believe in mastering skills through building, experimenting, and shipping impactful projects. As a passionate and lifelong learner, a proactive and continuous learner, consistently upskilling and exploring cutting-edge advancements in AI and Generative AI.*
 
 ## 💡 What I Do
-🤖 Build ML & Deep Learning models for real-world problems
-🧠 Develop LLM-powered applications and scalable RAG systems
-💬 Create AI chatbots, assistants, and NLP pipelines
-👁️ Work on Computer Vision & real-time detection systems
-📊 Perform data analysis, feature engineering & model optimization
-🌐 Deploy ML apps using Streamlit, Gradio & Hugging Face Spaces
-⚙️ Optimize ML/DL models for production environments
+- 🤖 Build ML & Deep Learning models for real-world problems
+- 🧠 Develop LLM-powered applications and scalable RAG systems
+- 💬 Create AI chatbots, assistants, and NLP pipelines
+- 👁️ Work on Computer Vision & real-time detection systems
+- 📊 Perform data analysis, feature engineering & model optimization
+- 🌐 Deploy ML apps using Streamlit, Gradio & Hugging Face Spaces
+- ⚙️ Optimize ML/DL models for production environments
 
 
 ## 🛠️ Tech Stack  
