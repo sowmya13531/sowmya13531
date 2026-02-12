@@ -115,7 +115,7 @@ An intelligent hybrid AI system that detects fake or misleading news using:
 ### 🔹 Offline LLaMA-Powered Voice AI Assistant
 Fully offline voice assistant integrating Speech-to-Text, LLaMA 3.2, and Text-to-Speech with contextual memory.
 
-***More projects available in my repositories 👇***
+***More projects available in my repositories***
 
 # 🌱 Currently Learning & Exploring
 * Advanced LLM Architectures & RAG Pipelines
@@ -145,6 +145,7 @@ Fully offline voice assistant integrating Speech-to-Text, LLaMA 3.2, and Text-to
 * 💼 LinkedIn: https://linkedin.com/in/sowmya-kanithi
 *  📧 Email: kanithisowmya2005@gmail.com
 * 🤗 Hugging Face Spaces: https://huggingface.co/Sowmya135
+* 🌐 Portfolio: https://sowmyakanithiportfolio.netlify.app/
   
 ## 🤝 Let’s Collaborate
 * 💡 I love solving real-world problems using AI & ML
