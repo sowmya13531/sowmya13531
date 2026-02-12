@@ -37,112 +37,64 @@ I love turning complex problems into intelligent solutions and building real-wor
 🛠️ Tech Stack
 💻 Programming
 
-Python
 https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white
-
-C++
 https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white
-
-SQL (MySQL logo)
 https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white
-
-HTML5
 https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-
-CSS3
 https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-
-JavaScript
 https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black
 
 🤖 Machine Learning & AI & DL
 
-TensorFlow
 https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white
-
-PyTorch
 https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white
 
 🧠 NLP & LLMs
 
-Hugging Face
 https://img.shields.io/badge/Hugging%20Face-F59E0B?style=for-the-badge&logo=huggingface&logoColor=white
-
-FAISS
 https://img.shields.io/badge/FAISS-1A1A1A?style=for-the-badge
-
-ChromaDB
 https://img.shields.io/badge/ChromaDB-5A29E4?style=for-the-badge
-
-LLaMA
 https://img.shields.io/badge/LLaMA-000000?style=for-the-badge
-
-Qwen
 https://img.shields.io/badge/Qwen-7A1FA2?style=for-the-badge
-
-FLAN-T5
 https://img.shields.io/badge/FLAN--T5-FF9800?style=for-the-badge
 
 👁️ Computer Vision
 
-OpenCV
 https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white
 
 📊 Data Analysis
 
-Pandas
 https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white
-
-NumPy
 https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white
 
 🚀 Tools & Deployment
 
-Streamlit
 https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white
-
-Gradio
 https://img.shields.io/badge/Gradio-2EC866?style=for-the-badge&logo=gradio&logoColor=white
-
-Git
 https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white
-
-GitHub
 https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-
-Jupyter
 https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white
-
-VS Code
 https://img.shields.io/badge/VS%20Code-0078D7?style=for-the-badge&logo=visual-studio-code&logoColor=white
 
 
-🚀 Highlight Projects
-🔹 AI News Credibility Analyzer
-
+## 🚀 Highlight Projects
+### 🔹 AI News Credibility Analyzer
 Hybrid AI system combining ML + Rule-Based Logic + LLM (Qwen) with RAG memory and Explainable AI.
 
-🔹 Offline LLaMA-Powered Voice AI Assistant
-
+### 🔹 Offline LLaMA-Powered Voice AI Assistant
 Fully offline voice assistant integrating Speech-to-Text, LLaMA 3.2, and Text-to-Speech with contextual memory.
 
-More projects available in my repositories 👇
+***More projects available in my repositories 👇***
 
-🌱 Currently Learning & Exploring
+# 🌱 Currently Learning & Exploring
+* Advanced LLM Architectures & RAG Pipelines
+* Deployment of ML apps using Hugging Face Spaces ,FLASK, FASTAPI, DOCKER
+* Optimizing ML/DL models for production
+* GenAI Applications
+* Model Performance Optimization
+* Full Stack Web Development
 
-Advanced LLM Architectures & RAG Pipelines
-
-Deployment of ML apps using Hugging Face Spaces & Streamlit
-
-Optimizing ML/DL models for production
-
-GenAI Applications
-
-Model Performance Optimization
-
-Full Stack Web Development
-
-📊 GitHub Overview
+## 📊 GitHub Overview
 <img src="https://github-readme-stats.vercel.app/api?username=sowmya13531&show_icons=true&theme=github_dark" />
 
 <br><br>
@@ -151,22 +103,19 @@ Full Stack Web Development
 
 <br><br>
 
-🎯 Career Focus
+# 🎯 Career Focus
 
-Actively seeking opportunities in:
+*Actively seeking opportunities in:*
 
-Machine Learning Engineer | AI/ML Engineer | GenAI Engineer | Data Scientist | Python Developer
+# Machine Learning Engineer | AI/ML Engineer | GenAI Engineer | Data Scientist | Python Developer 
 
-🌐 Connect With Me
+## 🌐 Connect With Me
 
-💼 LinkedIn: https://linkedin.com/in/sowmya-kanithi
-
-🤗 Hugging Face Spaces: https://huggingface.co/Sowmya135
-
-📧 Email: kanithisowmya2005@gmail.com
-
-🤝 Let’s Collaborate
-
-💡 I love solving real-world problems using AI & ML
-🤝 Open to internships, jobs, collaborations, and learning together
-🌱 Let’s Grow Together 🌿
+* 💼 LinkedIn: https://linkedin.com/in/sowmya-kanithi
+*  📧 Email: kanithisowmya2005@gmail.com
+* 🤗 Hugging Face Spaces: https://huggingface.co/Sowmya135
+  
+## 🤝 Let’s Collaborate
+* 💡 I love solving real-world problems using AI & ML
+* 🤝 Open to internships, jobs, collaborations, and learning together
+* 🌱 Let’s Grow Together 🌿
