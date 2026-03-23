@@ -143,7 +143,7 @@ Fully offline voice assistant integrating Speech-to-Text, LLaMA 3.2, and Text-to
 ## 🌐 Connect With Me
 
 * 💼 LinkedIn: https://linkedin.com/in/sowmya-kanithi
-*  📧 Email: kanithisowmya2005@gmail.com
+*  📧 Email: sowmyadevx@gmail.com
 * 🤗 Hugging Face Spaces: https://huggingface.co/Sowmya135
 * 🌐 Portfolio: https://sowmyakanithiportfolio.netlify.app/
   
